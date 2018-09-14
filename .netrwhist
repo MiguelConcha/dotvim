@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/wormb0t/Repositories/CompetitiveProgramming/URI/Strings/1248'
+let g:netrw_dirhist_2='/Users/wormb0t/Cuba/Contest0/J'
+let g:netrw_dirhist_3='/Users/wormb0t/Practica'
+let g:netrw_dirhist_4='/Users/wormb0t/Upsolving/DP/A'
+let g:netrw_dirhist_5='/Users/wormb0t/Upsolving/DP'
+let g:netrw_dirhist_6='/Users/wormb0t/Upsolving/DP/A'
+let g:netrw_dirhist_7='/Users/wormb0t/ConcursoSelectivo/E'
